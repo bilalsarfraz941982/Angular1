@@ -12,7 +12,7 @@
             $scope.input ="";
 
             $scope.clear = function(){
-                $scope.messagetm="",$scope.messagee="",$scope.messagepedf="",$scope.input=""}
+                $scope.message="",$scope.input=""}
 
             $scope.result = function(){
                 var aa = $scope.input;
